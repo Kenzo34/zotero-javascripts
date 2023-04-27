@@ -119,3 +119,4 @@ WOS:000685503000003
 [23copy-publication-title-to-journal-abbreviation.js]:23copy-publication-title-to-journal-abbreviation.js
 [24remove-starting-zotero-in-issue.js]:24remove-starting-zotero-in-issue.js
 [25empty-deleted-collections.js]:25empty-deleted-collections.js
+[26change_publication_title.js]:26change_publication_title.js
