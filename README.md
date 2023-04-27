@@ -90,6 +90,9 @@ WOS:000685503000003
 * ### [25empty-deleted-collections.js]
     清空delitem 0.0.20之前版本删除分类（文件夹）后残留在Add to Colletions中分类（文件夹），见[14#](https://github.com/redleafnew/delitemwithatt/issues/14#)。
 
+* ### [26change_publication_title.js]
+    把除了期刊名中的实词改成词首大写，其余的小写；'on', 'of'等虚词则仅在句首的时候首字母大写
+
     更多Zotero的使用方法见[Chinese-STD-GB-T-7714-related-csl](https://github.com/redleafnew/Chinese-std-GB-T-7714-related-csl)，Zotero的使用教程见[Zotero_introduction](https://github.com/redleafnew/Zotero_introduction)。
 
 
